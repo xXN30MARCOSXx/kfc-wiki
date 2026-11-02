@@ -5,28 +5,28 @@ h1{
     border-bottom: 1px solid #000;
 }
 header{
-    width: 50%;
+    width: 82%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
     background-color: #fffcfc;
 }
 main{
-    width: 50%;
+    width: 82%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
     background-color: #fffcfc;
 }
 footer{
-    width: 50%;
+    width: 82%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
     background-color: #fffcfc;
 }
 p{
     font-family: sans-serif;
 }
 img{
-   border: 10px solid #c7c7c7;
+   border: 10px solid #dfdede;
    float: right;
    margin-left: 15px;
 } 
@@ -37,4 +37,6 @@ img{
 body{
     background-color: #f8f9fa;
 }
-
+#menu{
+    text-align: left;
+}
