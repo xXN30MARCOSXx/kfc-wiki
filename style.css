@@ -7,18 +7,34 @@ h1{
 header{
     width: 50%;
     margin: 0 auto;
+    padding: 20px;
+    background-color: #fffcfc;
 }
 main{
     width: 50%;
     margin: 0 auto;
+    padding: 20px;
+    background-color: #fffcfc;
 }
 footer{
     width: 50%;
     margin: 0 auto;
+    padding: 20px;
+    background-color: #fffcfc;
 }
 p{
     font-family: sans-serif;
 }
 img{
    border: 10px solid #c7c7c7;
+   float: right;
+   margin-left: 15px;
+} 
+.izq{
+  float: left;
+  margin-right: 15px; 
 }
+body{
+    background-color: #f8f9fa;
+}
+
