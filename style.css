@@ -24,6 +24,7 @@ footer{
 }
 p{
     font-family: sans-serif;
+    margin-bottom: 2px;
 }
 img{
    border: 10px solid #dfdede;
@@ -36,7 +37,10 @@ img{
 }
 body{
     background-color: #f8f9fa;
+    
 }
-#menu{
-    text-align: left;
+#menu {
+    display: flex;
+    gap: 20px;
+    
 }
